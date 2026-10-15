@@ -1,2 +1,2 @@
-# LPI-BT5---Transcriptomics-
+# LPI-BT5-Transcriptomics-
 Exemplary protocols and capabilities
